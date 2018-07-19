@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\bin\Debug\Backwards.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\bin\Debug\Backwards.exe
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\bin\Debug\Backwards.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\obj\Debug\Backwards.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\obj\Debug\Backwards.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\obj\Debug\Backwards.exe
+\\vmware-host\Shared Folders\Desktop\dvp1\Backwards\Backwards\obj\Debug\Backwards.pdb

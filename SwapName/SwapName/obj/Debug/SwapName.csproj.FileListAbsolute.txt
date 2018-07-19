@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\bin\Debug\SwapName.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\bin\Debug\SwapName.exe
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\bin\Debug\SwapName.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\obj\Debug\SwapName.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\obj\Debug\SwapName.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\obj\Debug\SwapName.exe
+\\vmware-host\Shared Folders\Desktop\dvp1\SwapName\SwapName\obj\Debug\SwapName.pdb
