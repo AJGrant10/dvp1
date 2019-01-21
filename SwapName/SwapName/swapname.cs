@@ -8,7 +8,7 @@ namespace SwapName
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void GetSwapName()
         {
 
             Console.WriteLine("Welcome to SwapName:");
